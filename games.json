@@ -1,0 +1,94 @@
+{
+    "games": [
+   {
+     "id": 1,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=332&imdensity=1",
+     "gameName": "Diablo IV",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 2,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5387d7cefaf9923d/6334e1997e84e17596f9c816/Coins_960x540.png?imwidth=332&imdensity=1",
+     "gameName": "World of Warcraft",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 3,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt0819ca461bf740fe/66217895add4ca7624b78145/1500Orb_Pack_1920x1080_flip.png?imwidth=332&imdensity=1",
+     "gameName": "Call of Duty Black Ops 6",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 4,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5387d7cefaf9923d/6334e1997e84e17596f9c816/Coins_960x540.png?imwidth=332&imdensity=1",
+     "gameName": "Overwatch 2",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 5,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6da8d436b32fc423/612547de2d0c1d35e2bcac9e/13820-41750.png?imwidth=332&imdensity=1",
+     "gameName": "Hearthstone",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 6,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt01ba59ba32e79ed2/612548036021853334c68f75/8008-22244.png?imwidth=332&imdensity=1",
+     "gameName": "Call of Duty Black Ops 6",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 7,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt01ba59ba32e79ed2/612548036021853334c68f75/8008-22244.png?imwidth=332&imdensity=1",
+     "gameName": "Warcraft Rumble",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 8,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6eab8ebc74b0a118/6647c638958c44bf1e3611be/-Bnet_Game-Card_Product_browsing-EN-960x540_(4).jpg?imwidth=332&imdensity=1",
+     "gameName": "Call of Duty: Warzone",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 9,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt57a421d9cc7b9cc7/6435dd4ed402e526b209460e/Battlenet-Balance.jpg?imwidth=332&imdensity=1",
+     "gameName": "Battle.net Services",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   },
+   {
+     "id": 10,
+     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltf84b3964293bfc37/66959d1ef99331180ad237e0/WOW_11p0_TWW_EarlyAccessBanners_ProductAssetGallery-noLogos_1920x1080_enUS_JL01b.png?imwidth=332&imdensity=1",
+     "gameName": "Diablo IV",
+     "gameTitle": "Call of Duty®: Black Ops 6 - BlackCell (Season 02)",
+     "desc": "Get access to World of Warcraft®, now including Dragonflight, WoW® Classic: 20th Anniversary Edition, Cataclysm Classic™, and more!",
+     "price": "59.99",
+     "icon": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg"
+   }
+ ]
+  }
