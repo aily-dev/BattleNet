@@ -28,25 +28,6 @@
 ✅ Smooth animations using CSS & JS  
 ✅ Clean structure, easy to expand  
 
----
-
-### 🚀 Preview
-> ![BattleNet Preview](https://i.ibb.co/0XwqC1K/sample.png)
-
----
-
-### 📂 Project Structure
-```plaintext
-BattleNet/
-├── index.html        # Main page
-├── assets/
-│   ├── images/       # Images & icons
-│   └── css/
-│       └── tailwind.css
-├── js/
-│   └── main.js       # JavaScript logic
-└── README.md         # Documentation
-```
 
 ---
 
@@ -125,25 +106,8 @@ This project is under the **MIT License**. See [LICENSE](./LICENSE).
 ✅ انیمیشن‌های روان و جذاب با CSS و JS  
 ✅ ساختار تمیز و آماده برای توسعه بیشتر  
 
----
-
-### 🚀 پیش‌نمایش
-> ![پیش‌نمایش BattleNet](https://i.ibb.co/0XwqC1K/sample.png)
-
----
 
 ### 📂 ساختار پروژه
-```plaintext
-BattleNet/
-├── index.html        # صفحه اصلی
-├── assets/
-│   ├── images/       # تصاویر و آیکون‌ها
-│   └── css/
-│       └── tailwind.css
-├── js/
-│   └── main.js       # کدهای جاوااسکریپت
-└── README.md         # مستندات پروژه
-```
 
 ---
 
