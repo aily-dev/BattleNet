@@ -50,17 +50,6 @@ npm install
 npm run dev
 ```
 
----
-
-### 💻 Sample Code
-```html
-<div class="bg-gray-900 text-white p-6 rounded-xl shadow-lg">
-  <h1 class="text-3xl font-bold mb-4">🎮 BattleNet UI</h1>
-  <p class="text-gray-300">Welcome to the modern BattleNet interface!</p>
-</div>
-```
-
----
 
 ### 🎨 Tech Stack
 - **HTML5**  
@@ -130,15 +119,7 @@ npm install
 npm run dev
 ```
 
----
 
-### 💻 نمونه کد
-```html
-<div class="bg-gray-900 text-white p-6 rounded-xl shadow-lg">
-  <h1 class="text-3xl font-bold mb-4">🎮 رابط BattleNet</h1>
-  <p class="text-gray-300">به رابط کاربری مدرن BattleNet خوش آمدید!</p>
-</div>
-```
 
 ---
 
